@@ -37,6 +37,10 @@ The VacationPy script utilizes the weather data collected by WeatherPy, along wi
 
 **Note:** This project requires access to various APIs, such as OpenWeatherMap and Geoapify, for weather data, geographical information, and hotel recommendations. However, the API keys are not provided in this repository. You will need to obtain your own API keys and configure them accordingly in the Python scripts. Make sure to add the API keys to your `.gitignore` file to keep them secure.
 
+APIs used in this project, visit:
+- [OpenWeatherMap API](https://openweathermap.org/)
+- [Geoapify API](https://www.geoapify.com/)
+
 ## How to Run
 1. Open your Python environment.
 2. Navigate to the project directory.
@@ -63,3 +67,6 @@ Special thanks to ChatGPT for providing assistance and guidance during the devel
 **Source Code**
 Special thanks to the contributors of the UCB-VIRT-DATA-PT-11-2023-U-LOLC GitHub repository for providing valuable code and resources used in this project.
 
+For more information about the APIs used in this project, visit:
+- [OpenWeatherMap API](https://openweathermap.org/)
+- [Geoapify API](https://www.geoapify.com/)
