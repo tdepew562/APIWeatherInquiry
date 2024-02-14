@@ -55,18 +55,15 @@ APIs used in this project, visit:
 
 
 ## Credits
-**Acknowledgments**
+
+### Acknowledgments
 Special thanks to Berkely Data Analytics for providing code snippets and resources used in this project. UC Berkeley Extension
 
-Special thanks to the providers of the following APIs:
-- OpenWeatherMap API
-- Geoapify API
+### Special Thanks
+- Providers of the following APIs:
+  - [OpenWeatherMap API](https://openweathermap.org/)
+  - [Geoapify API](https://www.geoapify.com/)
+- ChatGPT for providing assistance and guidance during the development of these projects.
 
-Special thanks to ChatGPT for providing assistance and guidance during the development of these projects.
-
-**Source Code**
+### Source Code
 Special thanks to the contributors of the UCB-VIRT-DATA-PT-11-2023-U-LOLC GitHub repository for providing valuable code and resources used in this project.
-
-For more information about the APIs used in this project, visit:
-- [OpenWeatherMap API](https://openweathermap.org/)
-- [Geoapify API](https://www.geoapify.com/)
