@@ -44,7 +44,7 @@ APIs used in this project, visit:
 ## How to Run
 1. Open your Python environment.
 2. Navigate to the project directory.
-3. Open the Jupyter notebooks in the `notebooks` folder. These notebooks are named `VacationPy-Analysis.ipynb` and `WeatherPy-Analysis.ipynb`.
+3. Open the Jupyter notebooks named `VacationPy-Analysis.ipynb` and `WeatherPy-Analysis.ipynb`.
 4. Before running the scripts, create a Python source file named `api_keys.py` in the project directory to store your API keys. Inside the file, create variables named `geoapify_key` and `weather_api_key` and assign your API keys to them. For example:
   1. geoapify_key = "YOUR_GEOAPIFY_API_KEY"
   2. weather_api_key = "YOUR_WEATHER_API_KEY"
