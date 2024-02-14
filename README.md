@@ -52,6 +52,8 @@ The VacationPy script utilizes the weather data collected by WeatherPy, along wi
 
 ## Credits
 **Acknowledgments**
+Special thanks to Berkely Data Analytics for providing code snippets and resources used in this project. UC Berkeley Extension
+
 Special thanks to the providers of the following APIs:
 - OpenWeatherMap API
 - Geoapify API
@@ -59,5 +61,5 @@ Special thanks to the providers of the following APIs:
 Special thanks to ChatGPT for providing assistance and guidance during the development of these projects.
 
 **Source Code**
-Special thanks to the contributors of the project repositories for providing valuable code and resources used in these projects.
+Special thanks to the contributors of the UCB-VIRT-DATA-PT-11-2023-U-LOLC GitHub repository for providing valuable code and resources used in this project.
 
