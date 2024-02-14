@@ -27,13 +27,24 @@ The VacationPy script utilizes the weather data collected by WeatherPy, along wi
   - Generates heatmaps to display hotel locations with desirable weather conditions.
 
 ## Requirements
+
+### Common Dependencies
 - Python 3
-- Pandas library
-- Matplotlib library
-- SciPy library
-- GeoPandas library
-- Folium library
+- Pandas
+- Requests
+- Matplotlib
+- NumPy
+- SciPy
+- hvPlot
+- Jupyter Notebook
 - Various APIs (e.g., OpenWeatherMap, Geoapify)
+
+### VacationPy Specific Dependencies
+- GeoPandas
+- Folium
+- Holoviews
+  
+
 
 **Note:** This project requires access to various APIs, such as OpenWeatherMap and Geoapify, for weather data, geographical information, and hotel recommendations. However, the API keys are not provided in this repository. You will need to obtain your own API keys and configure them accordingly in the Python scripts. Make sure to add the API keys to your `.gitignore` file to keep them secure.
 
